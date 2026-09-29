@@ -1,15 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=140&section=header&text=Jeong%20Hangyeol&fontColor=ffffff&fontSize=38&fontAlignY=36" alt="Jeong Hangyeol" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=140&section=header&text=Jeong%20Hangyeol&fontColor=ffffff&fontSize=38&fontAlignY=36" alt="Jeong Hangyeol" width="100%" />
+</p>
+
+<h3 align="center">
+  안녕하세요, 정한결입니다
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="28" />
+</h3>
+
+<p align="center">
+  떠오른 걸 바로 손으로 만들어 보는 걸 좋아하고, 요즘은 생성형 AI를 공부하고 있어요.
 </p>
 
 <p align="center">
-  안녕하세요, 정한결입니다.<br/>
-  떠오른 걸 바로 손으로 만들어 보는 걸 좋아하고, 요즘은 생성형 AI를 공부하고 있어요.
+  <a href="https://github.com/41ways"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://41ways.github.io/norara/"><img src="https://img.shields.io/badge/Games-6366F1?style=flat-square&logo=gamejolt&logoColor=white" alt="Games" /></a>
 </p>
 
 ### 🛠 Tech Stack
 
-JavaScript · Python · Java · Vue
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
 
 ### 💡 관심사
 
