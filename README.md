@@ -9,9 +9,7 @@
 
 ### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,vue&perline=4&theme=light" alt="기술 스택" />
-</p>
+JavaScript · Python · Java · Vue
 
 ### 💡 관심사
 
