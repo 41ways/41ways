@@ -103,12 +103,12 @@
 | [의자 쌓기](https://41ways.github.io/chair-stack/) | 의자를 쌓아 올리는 물리 게임, 2D·3D 두 가지에 최대 6명 온라인 |
 | [드림 일레븐](https://dream-eleven-board.41ways.workers.dev/) | 카드팩으로 역대 명팀 선수를 모아 챔피언스리그에 도전하는 축구 드래프트 |
 | [Next!](https://41ways.github.io/armsdealer/) | 누구에게 무엇을 팔았는지가 결말을 바꾸는 무기 상점 경영 게임 |
-| [오디세이](https://github.com/41ways/odyssey) | 오디세우스의 귀향길을 따라가는 3D 액션 로그라이크 |
 | [무고](https://github.com/41ways/mugo) | 앞사람의 진술을 판결하고 내 진술을 다음 사람에게 넘기는 탐정 게임 |
 | [결투](https://duel.41ways.workers.dev/) | 반응속도 총잡이, 가위바위보 사무라이 |
 | [행선지 1~4](https://41ways.github.io/wheretogo/) | 가까운 순서만 보고 오늘의 정답 맞히기 (시·군, 나라, 태양계 천체, 브랜드) |
 | [한 줄](https://41ways.github.io/oneline-cal/) | 카드를 한 줄에 놓아 값을 키우는 로그라이크 |
 | [우주탐험](https://41ways.github.io/oxy-voyage/) | 심볼 조합으로 산소를 모으는 슬롯머신 로그라이크 |
 | [보드게임](https://41ways.github.io/norara/) | 카탄·뱅!·할리갈리 등을 온라인 멀티플레이로 |
+| [오디세이](https://github.com/41ways/odyssey) | 오디세우스의 귀향길을 따라가는 3D 액션 로그라이크 (진행중) |
 
 [🕹️ 게임 허브에서 전부 보기](https://41ways.github.io/norara/)
