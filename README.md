@@ -32,7 +32,7 @@
 ## 🚀 Projects
 
 ### 01. 🎧 SWAC — AI 고객과 상담 연습
-**AI 실험실 · 프론트엔드** · 2026.11 · 팀 캡스톤  
+**AI 실험실 · 프론트엔드** · 팀  
 `Python` `Next.js` `Whisper` `LLM API`
 
 > 상담원이 AI 고객과 통화하며 연습하고, 매뉴얼 항목마다 지켰는지 판정받는 교육 시스템
@@ -43,7 +43,7 @@
 [💻 AI·음성 코드](https://github.com/41ways/final-ai-archive)
 
 ### 02. 💊 신약 후보물질 독성 예측
-**EDA 발표 · 모델링** · 2026.10 · SKALA 미니프로젝트  
+**EDA 발표 · 모델링** · 팀  
 `Python` `RDKit` `XGBoost` `LightGBM`
 
 > 라벨 의미가 공개되지 않은 분자 데이터로 독성 여부를 예측
@@ -52,7 +52,7 @@
 - **검증** · 비슷한 분자가 뭉친 데이터라 무작위 교차검증이 점수를 부풀린다는 것을 확인 (AUC 0.875 vs 0.745)
 
 ### 03. ⚓ 부산신항 접안 지연 조기경보
-**문제 정의 · AIOps · 화면** · 2026.10 · SKALA 조별 과제  
+**문제 정의 · AIOps · 화면** · 팀  
 `LSTM` `FastAPI` `MLflow` `Docker`
 
 > 접안 10시간 전에 터미널 예정 시각이 얼마나 틀릴지 예측하는 AIOps 시스템
@@ -63,7 +63,7 @@
 [💻 GitHub](https://github.com/41ways/aiops-team5-berth-early-warning)
 
 ### 04. 🛡️ PRISM — 프롬프트 보안 게이트웨이
-**처리 흐름 · 출력 검사 · 프론트엔드** · 2026.09 · 팀 미니프로젝트  
+**처리 흐름 · 출력 검사 · 프론트엔드** · 팀  
 `Spring Boot` `Vue 3` `PostgreSQL` `AWS EC2`
 
 > 직원이 생성형 AI에 보내는 프롬프트에서 개인정보·기밀 유출을 막는 게이트웨이
@@ -74,7 +74,7 @@
 [💻 GitHub](https://github.com/givpro22/secure-prompt-gateway)
 
 ### 05. 📝 회의 결정 정리 비서
-**개인** · 2026.10  
+**개인**  
 `LangGraph` `MCP` `Chroma` `Ollama`
 
 > 회의 전사문에서 결정과 할 일을 근거와 함께 뽑고, 과거 결정·사내 정책과 부딪히는지 확인
@@ -85,7 +85,7 @@
 [💻 GitHub](https://github.com/41ways/meeting-decision-ledger)
 
 ### 06. 🎫 PlanB Market
-**개인** · 2026.08  
+**개인**  
 `Java 21` `Spring Boot` `JPA` `MyBatis`
 
 > 거래하는 동안에도 가치가 사라지는 티켓·예약권을 사고파는 P2P 거래 백엔드
